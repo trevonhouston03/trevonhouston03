@@ -1,5 +1,8 @@
 ## Hello there 👋
 
+# Trevon Houston 
+I currently go to the Univeristy of Rio Grande and my major is Computer Science
+
 <!--
 **trevonhouston03/trevonhouston03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
