@@ -7,6 +7,9 @@ I currently go to the Univeristy of Rio Grande and my major is Computer Science
 The languages I currently know are Java and JavaScript.  
 I am currently learning C and Python.
 
+## Learning Goals
+My current learning goal is to deepen my understanding of coding.
+
 <!--
 **trevonhouston03/trevonhouston03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
