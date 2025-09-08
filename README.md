@@ -17,6 +17,10 @@ My current learning goal is to deepen my understanding of coding.
   
 - [Indeed Profile] https://profile.indeed.com/p/trevonh-p2974yt
 
+## Fun Facts about me
+- I am eager to learn Tech
+- I grew up in a household fixing electronics for my family
+- 
 <!--
 **trevonhouston03/trevonhouston03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
