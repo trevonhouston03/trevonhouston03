@@ -11,9 +11,11 @@ I am currently learning C and Python.
 My current learning goal is to deepen my understanding of coding.
 
 ## Contact Information
-Email: trevonjay03@gmail.com
-Cell Phone: (440)-749-8978
-[Indeed Profile] https://profile.indeed.com/p/trevonh-p2974yt
+- Email: trevonjay03@gmail.com
+
+- Cell Phone: (440)-749-8978
+  
+- [Indeed Profile] https://profile.indeed.com/p/trevonh-p2974yt
 
 <!--
 **trevonhouston03/trevonhouston03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
