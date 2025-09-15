@@ -1,6 +1,8 @@
 ## Hello there 👋
 
 # Trevon Houston 
+[![Deploy to GitHub Pages](https://github.com/trevonhouston03/assignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/trevonhouston03/assignment2/actions/workflows/deploy.yml)
+
 I currently go to the Univeristy of Rio Grande and my major is Computer Science
 
 ## Technical Skills
